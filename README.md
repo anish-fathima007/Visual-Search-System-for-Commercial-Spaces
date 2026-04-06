@@ -98,8 +98,7 @@ Fine-tune model on commercial space dataset
 ## 🧪 Sample Input and Output
 
 ### Input Image
-![Input](dataset/images/office1.jpg)
-
+https://images.pexels.com/photos/28715052/pexels-photo-28715052.jpeg
 ### Output Results
 
 | Image | Similarity Score | Explanation |
